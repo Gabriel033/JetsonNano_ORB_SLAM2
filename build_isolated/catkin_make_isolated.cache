@@ -1,0 +1,2 @@
+ORB_SLAM2/Thirdparty/Pangolin:gscam:jetson_tools
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/jetson/car_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/jetson/car_ws/install_isolated

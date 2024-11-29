@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="jetson_tools" type="camera_publisher.py" name="camera_publisher.py" output="screen">
+  </node>
+</launch>
+

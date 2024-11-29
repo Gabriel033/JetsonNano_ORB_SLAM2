@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x -Wall -Wextra  -O3 -DNDEBUG  -rdynamic CMakeFiles/VideoJsonTransform.dir/main-transform.cpp.o  -o VideoJsonTransform -Wl,-rpath,/home/jetson/car_ws/build_isolated/pangolin/devel/src: ../../src/libpangolin.so -lGL -lGLU -lGLEW -lSM -lICE -lX11 -lXext -lrt -lpthread -ldc1394 -lavcodec -lavformat -lavutil -lswscale -lOpenNI -lOpenNI2 -lpng -lz -ljpeg -ltiff 

@@ -1,0 +1,8 @@
+prefix=/home/jetson/car_ws/install_isolated
+
+Name: jetson_tools
+Description: Description of jetson_tools
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
